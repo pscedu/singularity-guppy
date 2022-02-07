@@ -10,7 +10,7 @@ whatis("Name: guppy")
 whatis("Version: 6.0.0")
 whatis("Category: Biological Sciences")
 whatis("URL: https://www.psc.edu/resources/software")
-whatis("Description: Guppy is a data processing toolkit that contains the Oxford Nanopore Technologies’ basecalling algorithms."
+whatis("Description: Guppy is a data processing toolkit that contains the Oxford Nanopore Technologies’ basecalling algorithms.")
 
 help([[
 Guppy is a data processing toolkit that contains the Oxford Nanopore Technologies’ basecalling algorithms.
